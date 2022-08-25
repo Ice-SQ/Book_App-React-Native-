@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "fuel",
-    "slug": "fuel",
+    "name": "fuel_tracker",
+    "slug": "fuel_tracker",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
